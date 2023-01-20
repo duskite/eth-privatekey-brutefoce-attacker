@@ -1,0 +1,17 @@
+{
+  "name": "ethwalletbruteforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-private-key-to-public-key": "^0.0.5",
+    "ethereum-public-key-to-address": "^0.0.5",
+    "web3": "^1.8.1"
+  }
+}
